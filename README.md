@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on normal random projects to help me improve my knowledge :D<br>⚡ Fun fact: I live in South Africa!
+🔭 I’m currently working on normal random projects to help me improve my knowledge :D<br>⚡ Fun fact: I live in South Africa!<br> ⚡ Click for [My Portfolio](https://complexza.github.io)
 
 
 ## 🌐 Socials:
