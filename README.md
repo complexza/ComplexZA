@@ -18,6 +18,9 @@
 ### ✍️ Project Sloth Team
 ![Project Sloth GitHub Banner](https://user-images.githubusercontent.com/91661118/168956591-43462c40-e7c2-41af-8282-b2d9b6716771.png)
 
+### ✍️Byte Labs Team
+![Byte Labs banner](https://github.com/user-attachments/assets/074e7f4b-eb47-43da-9e05-e7ab9e716630)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=complexza&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
