@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on multiple projects!<br>🌱 I’m currently learning as I go, but for now mainly Front / Backend Development..<br> Pls don't roast me, ok thanks..
+🔭 I’m currently working on multiple projects!<br>🌱 I’m currently learning as I go, but for now mainly Front / Backend Development..
 
 
 
