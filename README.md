@@ -24,10 +24,11 @@ Web Developer @ [Supportwave](https://www.supportwave.com/)
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=complexza&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Project Sloth Team
+## ⌨️ Currently contributing to these projects:
+### 📦 Project Sloth Team
 ![Project Sloth GitHub Banner](https://user-images.githubusercontent.com/91661118/168956591-43462c40-e7c2-41af-8282-b2d9b6716771.png)
 
-### ✍️Byte Labs Team
+### 📦 Byte Labs Team
 ![Byte Labs banner](https://github.com/user-attachments/assets/074e7f4b-eb47-43da-9e05-e7ab9e716630)
 
 ### 🔝 Top Contributed Repo
