@@ -1,5 +1,14 @@
 ### 💫 About Me:
-🌐 Web Developer @ [Supportwave](https://www.supportwave.com/)
+<b>Occupation:</b> 
+<br>
+<br>
+Web Developer @ [Supportwave](https://www.supportwave.com/)
+<br>
+<br>
+<b>Current Hobbies:</b> <br>
+1. Aviation Enthusiast
+2. FiveM Development
+3. Gaming
 
 ### 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/complexza) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yayeetcomplex) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@complex) 
