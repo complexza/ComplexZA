@@ -24,17 +24,15 @@ Web Developer @ [Supportwave](https://www.supportwave.com/)
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=complexza&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## ⌨️ Currently contributing to these projects:
-### 📦 Project Sloth Team
-![Project Sloth GitHub Banner](https://user-images.githubusercontent.com/91661118/168956591-43462c40-e7c2-41af-8282-b2d9b6716771.png)
-
-### 📦 Byte Labs Team
-![Byte Labs banner](https://github.com/user-attachments/assets/074e7f4b-eb47-43da-9e05-e7ab9e716630)
+## ⌨️ I am currently contributing to these projects:
+### 📦 Project Sloth Community
+<img src="https://user-images.githubusercontent.com/91661118/168956591-43462c40-e7c2-41af-8282-b2d9b6716771.png" width="600"> </img>
+<br>
+### 📦 Byte Labs Studios
+<img src="https://github.com/user-attachments/assets/074e7f4b-eb47-43da-9e05-e7ab9e716630" width="600"> </img>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=complexza&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=complexza&icon=1&color=1)](https://visitcount.itsvg.in)
-
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/complexza) 
