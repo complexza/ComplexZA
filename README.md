@@ -1,11 +1,10 @@
 ### 💫 About Me:
 <b>Occupation:</b> 
 <br>
-<br>
 Web Developer @ [Supportwave](https://www.supportwave.com/)
 <br>
 <br>
-<b>Current Hobbies:</b> <br>
+<b>Current Hobbies:</b>
 1. Aviation Enthusiast
 2. FiveM Development
 3. Gaming
