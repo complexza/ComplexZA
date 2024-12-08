@@ -1,7 +1,7 @@
 ### 💫 About Me:
 <b>Occupation:</b> 
 <br>
-Web Developer @ [Supportwave](https://www.supportwave.com/)
+Developer @ [Supportwave](https://www.supportwave.com/)
 <br>
 <br>
 <b>Current Hobbies:</b>
