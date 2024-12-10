@@ -1,7 +1,7 @@
 ### 💫 About Me
 **Occupation:**  
 Developer @ [Supportwave](https://www.supportwave.com/)  
-*(Currently focused on Azure development. Transitioning from frequent GitHub commits to primarily using Azure DevOps for version control and CI/CD pipelines.)*
+*(Currently focused on Azure Dev Ops. Transitioning from frequent GitHub commits to primarily using Azure DevOps for version control and CI/CD pipelines.)*
 <br>
 <br>
 <b>Current Hobbies:</b>
