@@ -1,6 +1,6 @@
 ### 💫 About Me
 **Occupation:**  
-Full Stack Engineer @ [Supportwave](https://www.supportwave.com/)
+Full Stack Engineer
 
 **Recent Hobby Projects:** </br>
 Vatsim Flights Tracker: [Deployed on Vercel](https://vatsimflights.vercel.app/)
